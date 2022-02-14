@@ -28,4 +28,4 @@ phone = Phone.create!(model: "Iphone")
 phone = Phone.create!(model: "Samsung")
 
 
-model = Model.create!( )
+model = Model.create!()
