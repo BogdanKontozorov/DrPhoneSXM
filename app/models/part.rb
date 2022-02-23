@@ -1,3 +1,3 @@
 class Part < ApplicationRecord
-  belong_to :model
+  belongs_to :model
 end
